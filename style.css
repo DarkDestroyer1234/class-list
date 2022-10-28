@@ -1,0 +1,41 @@
+body{
+background-color: springgreen;
+text-align: center;
+font-family: cursive;
+
+
+}
+
+h1{
+    color: forestgreen;
+    font-family: cursive;
+    
+}
+h2{
+    color: darkgreen;
+    font-family: cursive;
+}
+
+button {
+
+    color: darkolivegreen;
+}
+
+input {
+color: green ;
+border-radius: 100px;
+
+}
+
+div {
+padding: 19px;
+    
+}
+
+button{
+width: 150px;
+height: 50px;
+font-size: medium;
+font-family: cursive;
+border-radius: 100px;
+}
